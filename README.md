@@ -59,9 +59,6 @@ From the provided logs:
 ## 📁 Deliverables
 - [Incident Response Report]
 - Splunk dashboard screenshots (not included in repo for security reasons).
-- Alert classification table.
-- Example stakeholder email draft.
-
 ---
 
 **Author:** Nitin Bhatt – SOC Analyst Intern  
